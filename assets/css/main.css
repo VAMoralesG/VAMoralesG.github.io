@@ -359,7 +359,6 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.33333%;
-			text-align: center;
 		}
 
 		.row > .off-4 {
@@ -2396,6 +2395,7 @@ input, select, textarea {
     			max-height: 100px;
     			object-fit: cover;
 				align-items: center;
+				margin: 0 auto;
 			}
 
 /* List */
