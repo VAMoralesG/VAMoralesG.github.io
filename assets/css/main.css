@@ -1157,6 +1157,7 @@ input, select, textarea {
 
 				.row > .col-12-medium {
 					width: 100%;
+					align-items: center;
 				}
 
 				.row > .off-12-medium {
