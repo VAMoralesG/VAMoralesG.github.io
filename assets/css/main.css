@@ -359,7 +359,7 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.33333%;
-			align-items: center;
+			text-align: center;
 		}
 
 		.row > .off-4 {
