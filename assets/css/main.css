@@ -359,6 +359,7 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.33333%;
+			align-items: center;
 		}
 
 		.row > .off-4 {
@@ -1157,7 +1158,6 @@ input, select, textarea {
 
 				.row > .col-12-medium {
 					width: 100%;
-					align-items: center;
 				}
 
 				.row > .off-12-medium {
