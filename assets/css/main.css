@@ -2393,7 +2393,7 @@ input, select, textarea {
 			.image.fit img {
     			max-height: 100px;
     			object-fit: cover;
-				object-position: center;
+				align-items: center;
 			}
 
 /* List */
