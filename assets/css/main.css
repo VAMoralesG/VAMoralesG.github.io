@@ -2398,6 +2398,16 @@ input, select, textarea {
 				margin: 0 auto;
 			}
 
+		.image.fitt {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+	
+			.image.fitt img {
+				width: 100%;
+			}
+
 /* List */
 
 	ol {
