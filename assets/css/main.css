@@ -2392,7 +2392,7 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
-    			max-height: 300px; /* Limita la altura máxima de las imágenes */
+    			max-height: 100px;
     			object-fit: cover;
 			}
 
